@@ -1,0 +1,15 @@
+{
+  "name": "tieba-louzhu-marks",
+  "version": "0.5.0",
+  "description": "",
+  "main": "tieba-louzhu-marks.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nickdoth <nick.doth@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/greasemonkey": "^4.0.0",
+    "@types/jquery": "^3.3.38"
+  }
+}
